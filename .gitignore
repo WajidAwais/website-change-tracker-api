@@ -16,7 +16,6 @@ ENV/
 venv/
 
 # IDE
-.vscode/
 .idea/
 
 # OS
@@ -44,3 +43,5 @@ reports/
 # Misc
 *.swp
 *.swo
+temp_interactive_push.bat
+.gitignore
